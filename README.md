@@ -88,3 +88,9 @@ if Horse::position >= trackLength:
     print horse has won
 return winner
 ```
+## Main
+```
+initialize race
+start race
+return 0
+```
